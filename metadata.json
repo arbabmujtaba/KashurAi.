@@ -1,0 +1,7 @@
+{
+  "name": "Kashmiri Ai",
+  "description": "Kashmiri Ai, an AI-powered chat agent by ArbabMujtaba that communicates fluently in the Kashmiri language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
